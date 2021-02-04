@@ -45,7 +45,7 @@ a:hover {
   margin: 0;
   padding: 0;
 }
-
+/* Breakpoints */
 @media all and (max-width: 1000px) {
 }
 
